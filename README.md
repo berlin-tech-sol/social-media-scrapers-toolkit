@@ -64,4 +64,17 @@
 
 **If You have suggestions for more social media. Let me know :wink:**
 
+## Author
+
+**Abdul Wasea** — [@AbdulWaseaDev](https://github.com/AbdulWaseaDev)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+* 🐛 Found a bug or have a feature request? [Open an issue](../../issues)
+* 🔀 Contributions are welcome — feel free to fork and submit a pull request
+* 📢 Share this repo with others who might find it useful
+* 👀 Follow [@AbdulWaseaDev](https://github.com/AbdulWaseaDev) on GitHub for more projects
+
 
