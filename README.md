@@ -7,26 +7,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
----
-## ⚡ Sponsor
-
-### **[CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=social&utm_term=social&utm_id=social) — Web Scraping Platform & Ready-to-Use Data Extraction Tools**
-
-[![CoreClaw Banner](assets/images/coreclaw_banner.png)](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=social&utm_term=social&utm_id=social)
-
-[CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=social&utm_term=social&utm_id=social) provides **100+ ready-to-use data scraping tools** for platforms like Amazon, TikTok, Google Maps, Instagram, Facebook, YouTube, and more.
-
-*   **🚫 No Coding Required** — Extract structured data effortlessly.
-*   **🔄 Flexible Formats** — Export seamlessly to JSON or CSV format.
-*   **🛡️ Pay-Per-Success** — Only pay for successful results with no wasted budget on failed extractions.
-
-### 🎁 Special Offer
-**[Get started with a free $3 trial today!](https://www.coreclaw.com/?utm_source=github&utm_medium=referral&utm_campaign=social&utm_term=social&utm_id=social)**
----
-
-
-
-
 ## Available Social Media
 * Twitter
 * Facebook
